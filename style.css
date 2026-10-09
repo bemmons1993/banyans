@@ -1,0 +1,32 @@
+body {
+    background: url("banyansbg.png") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.navbar-custom{
+    background-color: #fafafa;
+
+}
+
+.nav {
+    --bs-nav-link-color: black;
+}
+
+.nav .nav-link:hover {
+    color: #555555;
+}
+
+.center-content h1 {
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.center-content h3 {
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+footer {
+    background-color: #1c1c1c;
+    color: #fafafa;
+}
